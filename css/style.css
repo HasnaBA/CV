@@ -1,10 +1,16 @@
 body {
-    background: #DAE3E7;
+    background: #BDBDBD;
 }
 
-h1, h2, {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+h1 {
+    font-family:'Shadows Into Light Two', cursive;
     font-weight: bold;
+    font-size: 60px;
+}
+h2 {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-weight: bold;
+    font-size: 40px;
 }
 
 .header {
@@ -12,8 +18,10 @@ h1, h2, {
     margin-bottom: 40px;
 }
 
+    
+
 img.profile {
-    width:200px;
+    width:100%;
 }
 
 .btn-contact {
