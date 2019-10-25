@@ -1,0 +1,31 @@
+body {
+    background: #DAE3E7;
+}
+
+h1, h2, {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.header {
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+img.profile {
+    width:200px;
+}
+
+.btn-contact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    color: blanchedalmond;
+    padding: 1em;
+}
+
+.section {
+    background-color: white ;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
