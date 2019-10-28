@@ -17,20 +17,39 @@ h2 {
 
 .header {
     padding: 20px 0;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
     background-color: black;
+    height: 150px;
     
 }
 
 .logo{
+    position: relative;
+    display: inline-block;
     color: white;
     font-size: 70px;
-    
+    height: 100px;
+    width: 100px;
+    border:2px solid white;
+    border-radius:100%;
+    margin-left:20px;
+    margin-top:0px;
+    text-align: left;
+    padding:12px;
     font-family:'Playball', cursive;
-}  
+   
+} 
+.menu ul{
+    font-size: 1em;
+    color:white;
 
-img.profile {
-    width:100%;
+}
+
+.photo {
+    width;: 400px;
+    height: 400px;
+    border-radius: 100%;
+    margin: 40px;
 }
 
 .btn-contact {
