@@ -25,7 +25,6 @@ h2 {
     
 }
 
-
 .logo{
     position: relative;
     display: flex;
@@ -45,23 +44,19 @@ h2 {
     margin: 8px 0;
    
 }
-
+.titregras{
+    font-weight:bold;
+}
 .logo span {
     margin-right: 12px;
 }
-.container{
-    margin: 50px;
-    
-}
 
 .nav {
-    font-size: 1em;
     color:white;
-
 }
 
 .photo {
-    width;:250px;
+    width:250px;
     height: 250px;
     border-radius: 100%;
     margin: 10px;
