@@ -6,19 +6,28 @@ h1 {
     font-family:'Shadows Into Light Two', cursive;
     font-weight: bold;
     font-size: 60px;
+    color: white;
 }
 h2 {
     font-family: 'Shadows Into Light Two', cursive;
     font-weight: bold;
     font-size: 40px;
+    color: white;
 }
 
 .header {
     padding: 20px 0;
     margin-bottom: 40px;
+    background-color: black;
+    
 }
 
+.logo{
+    color: white;
+    font-size: 70px;
     
+    font-family:'Playball', cursive;
+}  
 
 img.profile {
     width:100%;
